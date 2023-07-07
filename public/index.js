@@ -8,7 +8,7 @@ import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, Go
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDEjRp_EMA0xDsKtbw1U3ihquI1RExEKQ4",
+  apiKey: "/*API KEY*/",
   authDomain: "login-test-9ff46.firebaseapp.com",
   projectId: "login-test-9ff46",
   storageBucket: "login-test-9ff46.appspot.com",
